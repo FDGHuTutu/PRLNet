@@ -48,5 +48,5 @@ python predict.py
 ```
 * If you need to predict other pictures, please change the `img_path` in `predict.py` to other picture paths.
 
-## This project mainly refers to the following code base
+## Acknowledgement
 * https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_keypoint/HRNet. Thank you very much for his contribution！
