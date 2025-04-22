@@ -1,9 +1,7 @@
 # PRLNet: A Two-Stage Lightweight Framework for Accurate Human Pose Estimation
 
-
-## 该项目主要参考以下仓库
-* https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
-* https://github.com/stefanopini/simple-HRNet
+The official code repository for the paper "PRLNet: A Two-Stage Lightweight Framework for Accurate Human Pose Estimation".
+![PRLNet.png](PRLNet.jpg)
 
 ## 环境配置：
 * Python3.6/3.7/3.8
@@ -104,3 +102,10 @@ https://www.bilibili.com/video/BV1ar4y157JM
 
 ## HRNet网络结构图
 ![HRNet.png](HRNet.png)
+## 该项目主要参考以下仓库
+* https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
+* https://github.com/stefanopini/simple-HRNet
+
+## 该项目主要参考以下仓库
+* https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
+* https://github.com/stefanopini/simple-HRNet
